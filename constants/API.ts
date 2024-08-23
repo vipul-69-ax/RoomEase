@@ -1,0 +1,1 @@
+export const IPCONFIG = `http://192.168.29.208:3000`
